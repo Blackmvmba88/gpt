@@ -1,0 +1,8 @@
+{
+    "system_name": "Mi Sistema GPT",
+    "version": "1.0.0",
+    "max_history": 10,
+    "default_model": "gpt-3.5-turbo",
+    "language": "es",
+    "welcome_message": "¡Bienvenido a tu sistema personal de IA!"
+}
