@@ -8,7 +8,7 @@ This is a minimal GPT-related repository that currently contains only basic docu
 ## Working Effectively
 
 ### Initial Setup
-- Clone the repository: `git clone https://github.com/Blackmvmba88/gpt.git`
+- Clone the repository: `git clone [repository-url]`
 - Navigate to repository: `cd gpt`
 - Check repository status: `git --no-pager status`
 
